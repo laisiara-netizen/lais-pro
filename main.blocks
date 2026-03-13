@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="/_N;hq~Xoi-kD.A_._8k">strip</variable></variables><block type="pxt-on-start" id="A2]:JdR(~1i!rwpLmL$z" x="36" y="42"><statement name="HANDLER"><block type="device_show_leds" id="ebqq[f[aueLhSRtxpidJ"><field name="LEDS">`
+        # # # . . 
+        . . # . . 
+        # # . # # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="radio_datagram_send_string" id="X7Qcr%=%]XP)QQ?$S@{:"><value name="msg"><shadow type="text" id="KDCsvC+=OT8Qzc{E]+lL"><field name="TEXT">@@@@@</field></shadow></value></block></next></block></statement></block><block type="device_forever" id="(K@!#8;{SYUa-K14S.pt" x="668" y="108"><statement name="HANDLER"><block type="device_print_message" id="r}Ti@+D}wYVdJ$y{N%_,"><value name="text"><shadow type="text" id="Kd9;p5{#LE3fC9or4c/}"><field name="TEXT">VAI CORINTHIANS!!!</field></shadow></value><next><block type="basic_show_icon" id="DRI`.tLz)F4~wG7l$h2z"><field name="i">IconNames.Heart</field><next><block type="music_playable_play" id="_0pL|q%O5s~h8NKvbbAU"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="soundExpression_builtinPlayableSoundEffect" id="pL.vs++k]7suL^0|po.C"><field name="soundExpression">soundExpression.giggle</field></shadow></value></block></next></block></next></block></statement></block></xml>
